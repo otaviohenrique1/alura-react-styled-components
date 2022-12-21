@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import Item from "../UI/item";
+import Item from "../item";
 import ImageFilter from "../ImageFilter";
 
 const Items = styled.div`
